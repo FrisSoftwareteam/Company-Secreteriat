@@ -308,6 +308,14 @@ textarea {
   color: #eef3ff;
 }
 
+.sidebar-brand-version {
+  display: block;
+  margin-top: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #aab6cc;
+}
+
 .sidebar-divider {
   border-top: 1px solid #222939;
   opacity: 1;

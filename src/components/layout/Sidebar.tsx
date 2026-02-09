@@ -14,8 +14,9 @@ export function Sidebar({
       <div>
         <div className="mb-4 px-4 mt-2">
           <h1 className="font-bold" style={{ fontSize: 26, margin: 0 }}>
-            <span className="sidebar-brand-primary">COMPANY SECRETERIAL</span>{" "}
+            <span className="sidebar-brand-primary">COMPANY SECRETARIAT</span>{" "}
             <span className="font-medium sidebar-brand-secondary">PORTAL</span>
+            <span className="sidebar-brand-version"> (Version 1.0, Feb.2026)</span>
           </h1>
         </div>
 
